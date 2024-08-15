@@ -7,3 +7,6 @@ Given a factory with the below information:
 - The total workforce that the factory has is 20 people. According to the labor rights, a labor can only work 1 shift a day and each week, a labor must take leave at least 2 days
 - If a labor works on evening shift today, he/she cannot work on the morning shift tomorrow
 - So, us, as a production planner, how can we assign each labor to each day and each shift to minimize the cost, satisfy the demand but still follow the rights?
+
+Formulation of the problem
+![image](https://github.com/user-attachments/assets/3a3992fb-13f1-4545-b232-6aa3892f9755)
