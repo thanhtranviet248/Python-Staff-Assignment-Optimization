@@ -8,5 +8,6 @@ Given a factory with information:
 - If a labor works on evening shift today, he/she cannot work on the morning shift tomorrow.
 - So, us, as a production planner, how can we assign each labor to each day and each shift to minimize the cost, satisfy the demand but still follow the rights?
 
-This is the ![mathematical formulation](https://github.com/user-attachments/assets/3a3992fb-13f1-4545-b232-6aa3892f9755) of the problem:
+This is the mathematical formulation of the problem:
+![mathematical formulation](https://github.com/user-attachments/assets/3a3992fb-13f1-4545-b232-6aa3892f9755) 
 
